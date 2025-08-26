@@ -9,7 +9,7 @@ import React, { useEffect, useMemo, useRef, useState } from "react";
 // ================================
 
 const COW_IMG =
-  "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f404.svg"; // 🐄
+  "https://x.com/lamumudotxyz/status/1955714788605980753/photo/1"; // 🐄
 const BEAR_IMG =
   "https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f43b.svg"; // 🐻
 
